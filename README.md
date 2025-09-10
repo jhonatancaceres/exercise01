@@ -15,4 +15,4 @@ Starter with minimal elements
 
 ## Screenshot
 
-![alt text](screenshot.png)
+![alt text](image.png)
