@@ -12,3 +12,7 @@ Starter with minimal elements
 - nvm use
 - npm install
 - npm run dev
+
+## Screenshot
+
+![alt text](image.png)
